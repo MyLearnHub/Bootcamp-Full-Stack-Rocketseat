@@ -18,7 +18,7 @@
 
 # 💻Tecnologias
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,sqlite">
+    <img src="https://iconsverse.vercel.app/icons?i=html,css,js,nodejs,sqlite">
   </div>
 
 # 📝Visão Geral
